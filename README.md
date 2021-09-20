@@ -18,3 +18,6 @@ View this example [timeline](https://digital-humanities-toolkit.github.io/timeli
 ![timeline sample](timeline-example.png)
 
 
+
+# History
+
